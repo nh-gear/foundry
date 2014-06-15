@@ -1,6 +1,6 @@
 {
     "name": "nh-gear/foundry",
-    "description": "general bootstrap component for php 5.4 or higher",
+    "description": "general bootstrap component for php 5.5 or higher",
     "keywords": [ "bootstrapping" ],
     "license": "MIT",
     "authors": [
